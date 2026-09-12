@@ -135,7 +135,7 @@ function App() {
             <div className="hero-orbit orbit-one" />
             <div className="hero-orbit orbit-two" />
             <div className="portrait-frame">
-              <img src="./public/Futuristic_coder_lair_with_mystic_vibes.png" alt="Pratham Goyal in his workspace" />
+              <img src="../public/Futuristic_coder_lair_with_mystic_vibes.png" alt="Pratham Goyal in his workspace" />
               <div className="portrait-glow" />
               <div className="portrait-label">Delhi, IN <span>•</span> 28.61° N</div>
             </div>
